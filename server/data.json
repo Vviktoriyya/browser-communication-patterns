@@ -1,0 +1,72 @@
+{
+  "rooms": [
+    "minecraft",
+    "standoff2"
+  ],
+  "messages": {
+    "minecraft": [
+      {
+        "author": "vika",
+        "text": "hi there",
+        "time": 1791129029682
+      },
+      {
+        "author": "noob",
+        "text": "wsup",
+        "time": 1791129046350
+      }
+    ],
+    "standoff2": [
+      {
+        "author": "noob",
+        "text": "teem???",
+        "time": 1791129064549
+      },
+      {
+        "author": "vika",
+        "text": "hi hello",
+        "time": 1791129101095
+      },
+      {
+        "author": "vika",
+        "text": "im going play",
+        "time": 1791129136748
+      },
+      {
+        "author": "vika",
+        "text": "who with ",
+        "time": 1791129148948
+      },
+      {
+        "author": "vika",
+        "text": "?",
+        "time": 1791129150578
+      },
+      {
+        "author": "noob",
+        "text": "go",
+        "time": 1791129158620
+      },
+      {
+        "author": "noob",
+        "text": "5 min",
+        "time": 1791129167458
+      },
+      {
+        "author": "vika",
+        "text": "okkkk",
+        "time": 1791129176730
+      },
+      {
+        "author": "meow",
+        "text": "GOO",
+        "time": 1791129336284
+      },
+      {
+        "author": "андрій",
+        "text": "привіт",
+        "time": 1791139576343
+      }
+    ]
+  }
+}
